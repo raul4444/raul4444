@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading book
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on people
-- 📫 How to reach me write me here
+- 📫 How to reach me - rlatifli2020@ada.edu.az- Royal Latifli
 
 <!---
 raul4444/raul4444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
